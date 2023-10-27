@@ -15,7 +15,9 @@ Project Notes:
 ## Project PI/Project Team 
 **Due October 26, 11:59pm**
 
-Name, Vandy email, VUNetID, Role
+Dhruv Modi, dhruv.r.modi@vanderbilt.edu, modidr, Contributor
+Nolan Doyle, nolan.e.doyle@vanderbilt.edu, doylene, Contributor
+
 
 ## Project Proposal 
 **Due October 26, 11:59pm**
@@ -23,25 +25,36 @@ Name, Vandy email, VUNetID, Role
 300-1000 words total across all of the sections below
 
 ### Description of Problem/Opportunity
+Over the course of a sports season, athletes are at risk of injuries due to various factors, such as repeating certain movements, being frequently targeted in vulnerable positions, fatigue-induced errors, and the cumulative stress of back-to-back games. Recognizing and understanding these patterns early can significantly aid in preventing potential injuries and ensuring athlete longevity.
+
 
 ### Proposed Solution/Approach
+Using historical game data and player movement patterns, we aim to develop a predictive model that identifies moments of heightened injury risk for athletes during matches. This would involve analyzing sequences where injuries commonly occur and recognizing similar patterns in real-time gameplay. By introducing a tailored prompt system, the model can then provide timely alerts or recommendations to coaching staff, potentially preventing situations that lead to injuries.
+
 
 ### Project Outline and Timeline
 What are the steps to complete the project? State your milestones and the dates you want to complete them. 
+Milestone #1 - Utilize a combination of acquiring data sets and synthesizing data sets in order to establish a solid foundation
+Milestone #2 - Identify the right machine learning algorithms and predictive patterns needed to analyze the data
+Milestone #3 - Use chatgpt to train our synthetic data using these machine learning algorithms and predictive patterns
+Final Milestone - Employ our finished algorithm and assess the results
+
 
 ## Goals of project 
 **Due October 26, 11:59pm**
 
 Describe 1-5 goals of the project. 
-### Goal 1
-### Goal 2
+Goal 1: Understand patterns behind players injuries. Asses whether certain speeds, movements, positions, etc make players more prone to injuries. 
+Goal 2: Use our findings to provide preventative solutions to players more susceptible to injuries. 
+Goal 3: Enhance in-game decision making and player load management
 
 ## Project Metrics 
 **Due October 26, 11:59pm**
 
 Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
-### Metric 1
-### Metric 2
+Metric 1: Our model correctly predicts whether a player is at risk for injury when given unfamiliar testing data
+Metric 2: Unbiased, third party sources such as coaches or teachers assess our model to be fair and accurate
+
 
 ## Self-Evaluation
 **Due December 8, 11:59pm**
